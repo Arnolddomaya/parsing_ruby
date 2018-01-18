@@ -2,7 +2,7 @@ require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
 
-
+#exo non terminé; pistes de travail
 
 #on va lancer le parsing sur ce site http://mon-incubateur.com/site_incubateur/incubateurs/1/#
 def route_incubators()
